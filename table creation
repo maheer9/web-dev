@@ -1,0 +1,35 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <table border="2"width="50%"height="25%" style="border-collapse: collapse">
+            <tr>
+                <th>name</th>
+                <th>age</th>
+                <th>class</th>
+                <th>clg</th>
+            </tr>
+            <tr>
+                <tr align="center">
+                <td>amar</td>
+                <td>25</td>
+                <td>phd</td>
+                <td>mtiet</td></tr>
+            </tr>
+            <tr>
+                <tr align="center">
+                    <td>jay</td>
+                    <td>23</td>
+                    <td>phd</td>
+                    <td>mti</td></tr>
+            </tr>
+            <tr>
+                <tr align="center">
+                    <td>raj</td>
+                    <td>26</td>
+                    <td>phd</td>
+                    <td>mtiet</td></tr>
+            </tr>
+        </table>
+    </body>
+</html>
