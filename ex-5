@@ -1,0 +1,13 @@
+<html>
+<head></head>
+<body>
+    <list>
+        <ul type="sqaure" style="background-color:aqua;">
+            <li>Apple</li>
+            <li>orange</li>
+            <li>papaya</li>
+            <li>mango</li>
+        </ul>
+    </list>
+</body>
+</html>
